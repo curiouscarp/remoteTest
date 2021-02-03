@@ -19,7 +19,7 @@
 
 
 const double MINIMUM_APPEARANCE = 0.001;
-const int STEM_LENGTH = 6;
+const int STEM_LENGTH = 3;
 
 //DO NOT CHANGE THESE
 typedef std::set<std::string> WordSet;
