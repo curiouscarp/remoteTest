@@ -1,10 +1,5 @@
 // File name: WordCount.cpp
 // Author: Zachary Gruber
-// Userid: gruberzd
-// Email: zachary.d.gruber@vanderbilt.edu
-// Class: cs2201
-// Assignment Number: project 8
-// Honor Statement: i adhere to it
 // Description: computes vector score for two texts
 // Last Changed: 11/11/2019
 
